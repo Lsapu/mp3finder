@@ -1,5 +1,6 @@
 /*Mp3 finder program
-Author->  Apoorav Sharma*/
+Author->  Apoorav Sharma
+License-> MIT*/
 
 #include<iostream>
 #include<dirent.h>     
